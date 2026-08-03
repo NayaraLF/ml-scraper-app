@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/detail.js": { "maxDuration": 60 },
+    "api/search.js": { "maxDuration": 45 },
+    "api/concorrentes.js": { "maxDuration": 60 }
+  }
+}
